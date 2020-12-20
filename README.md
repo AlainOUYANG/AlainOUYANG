@@ -4,4 +4,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/AlainOUYANG?languages=1&pagespeed=1&pagespeed.detailed=true)
 
-- 🎯 WeChat Blog: TheAIchemist ![WeChat QRCode](https://tva1.sinaimg.cn/large/00831rSTgy1gccz6motdhj31o10hcdit.jpg)
+![WeChat QRCode](https://tva1.sinaimg.cn/large/00831rSTgy1gccz6motdhj31o10hcdit.jpg)
